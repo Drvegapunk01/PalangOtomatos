@@ -210,3 +210,20 @@ print("Program selesai")
 
 
 #update 1-9-2025: memodifikasi fungsi crop untuk OCR agar tidak ada noice dari outline plat
+
+
+
+#==============================Next update================================
+    #Buat GUI untuk Oprator untuk menampilkan data" yang dibutuhkan juga kondisi PC 
+        #  Buat program ini run on linux
+        #  Buat dia autorun ketika boot
+        #  aktifkan watchdog
+        #  tambahkan fallback backup Model dan OCR
+        #  interdfacing ini dengan palang otomatis dengan periperal arduino
+        #  logging system
+        #  tambahkan requirements.txt
+
+
+#Note:
+# buat program ini agar bisa somehow "memperbaiki dirinya sendiri"
+# artinya harus ada fallback berlapis lapis, dan bahkan jika terjadi error bisa memperbaiki errornya sendiri
